@@ -16,7 +16,7 @@ This project includes several optional but valuable enhancements to improve usab
   Implemented simple login system with role-based access control for **Drivers** and **Customers**. Users can securely log in, and features are tailored based on roles.
 
 - **Accept Request**  
-  Drivers can accept towing requests. Once a request is accepted, its status updates to **"assigned"** and it becomes visible **only to the assigned driver**, ensuring clear task ownership and privacy.
+  Drivers can accept towing requests. Once a request is accepted, its status updates to **"assigned"** and it becomes visible **only to the assigned driver**, ensuring clear task ownership and privacy, While updating the request status for the customer side.
 
 - **Responsive Design**  
   The web application is fully responsive, providing an optimal user experience across all devices — desktops, tablets, and mobile phones.
