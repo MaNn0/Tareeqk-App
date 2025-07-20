@@ -18,7 +18,10 @@ This project includes three parts:
 - [Expo CLI](https://docs.expo.dev/get-started/installation/) (for React Native)
 
 ```bash
-npm install -g expo-cli
+composer create-project laravel/laravel my-app
+php artisan serve (to run laravel)
+npm run dev (to run frontend)
+npm install -g expo-cli (to run react native)
 ```
 
 ---
